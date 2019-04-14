@@ -1,4 +1,4 @@
-package org.opensoft.projecte;
+package org.opensoft.projecte.model;
 
 public class Greeting {
 
